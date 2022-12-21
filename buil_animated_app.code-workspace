@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "buil_animated_app",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../build_animated_app/assets"
+		}
+	],
+	"settings": {}
+}
